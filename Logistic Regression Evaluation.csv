@@ -1,0 +1,4 @@
+Actual \ Predicted,Predicted 0 (Non-Fraud),Predicted 1 (Fraud),,Metric,Value,,Metric,Value
+Actual 0 (Non-Fraud),1830085 (TN),76254 (FP),,Precision,0.96,,Accuracy,0.92
+Actual 1 (Fraud),228756 (FN),1677550 (TP),,Recall,0.88,,F1-Score,0.92
+,,,,,,,AUC-ROC,0.9736
